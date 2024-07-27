@@ -1,8 +1,8 @@
-# Design Document for SOXParser.py
+# How it works
 
 ## Introduction
 
-The `SOXParser.py` script is designed to process CSV files containing custom permission attributes. It identifies the structure of the CSV, processes permission data, and generates multiple output files including permission CSVs, a processed main CSV, and a Groovy schema script. This document outlines the design and development plan for these features.
+The `SOXParser.py` script is designed to process CSV files containing custom permission attributes. It identifies the structure of the CSV, processes permission data, and generates multiple output files including permission CSVs, a processed main CSV, and an ICF schema script.
 
 ## Features Overview
 
