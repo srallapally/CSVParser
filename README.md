@@ -80,7 +80,7 @@ The `SOXParser.py` script is designed to process CSV files containing custom per
     2. Read and process each row, integrating synthetic IDs for permission columns.
     3. Write the processed data to the output file.
   - **generate_groovy_schema:**
-    1. Create and open an output file for writing the Groovy schema.
+    1. Create and open an output file for writing the ICF schema script.
     2. Write the schema definition for each permission column.
     3. Define operation options for the schema.
 
